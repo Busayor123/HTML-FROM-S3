@@ -1,10 +1,10 @@
+
+
+![Alt text](Architectural Diagram.drawio.png)
+
 # AWS HTML Website Deployment
 
 This repository contains scripts and instructions for deploying an HTML website on a single EC2 instance, with web files stored in an S3 bucket.
-
-## Architecture
-
-![Alt text](Architectural Diagram.drawio.png)
 
 - **S3 Bucket:**
   - Log in to the AWS Management Console.
