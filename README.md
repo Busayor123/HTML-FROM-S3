@@ -1,6 +1,6 @@
 
 
-![Alt text](Architectural Diagram.drawio.png)
+![AWS Architecture Diagram](Architectural Diagram.drawio.png)
 
 # AWS HTML Website Deployment
 
