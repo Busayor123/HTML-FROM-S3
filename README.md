@@ -1,10 +1,12 @@
 
 
-![AWS Architecture Diagram](Architectural Diagram.drawio.png)
-
 # AWS HTML Website Deployment
 
 This repository contains scripts and instructions for deploying an HTML website on a single EC2 instance, with web files stored in an S3 bucket.
+
+## Architecture
+
+![AWS Architecture Diagram](link-to-your-image.png)
 
 - **S3 Bucket:**
   - Log in to the AWS Management Console.
@@ -17,6 +19,11 @@ This repository contains scripts and instructions for deploying an HTML website 
   - Use the default VPC/SUBNET.
   - Enable the public IP for the instance.
   - Configure the security group to allow inbound traffic on port 80 (HTTP).
+
+- **User Data Script:**
+  - The EC2 instance is configured using the following user data script during launch:
+    User
+create an architecture diagram Host an HTML website on a single EC2 uploading the web files from s3.
 
 - **User Data Script:**
   - The EC2 instance is configured using the following user data script during launch:
@@ -35,7 +42,6 @@ This repository contains scripts and instructions for deploying an HTML website 
     systemctl start httpd
     ```
   .
-
 ## How to Use
 
 1. **S3 Bucket Setup:**
@@ -62,3 +68,11 @@ This repository contains scripts and instructions for deploying an HTML website 
 - For increased security, consider using AWS Identity and Access Management (IAM) roles and fine-grained S3 bucket policies.
 
 Feel free to customize the instructions and diagram according to your specific needs.
+Replace link-to-your-image.png in the README with the actual link to your architecture diagram image.
+
+
+
+
+
+
+
