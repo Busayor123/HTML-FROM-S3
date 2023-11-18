@@ -6,7 +6,7 @@ This repository contains scripts and instructions for deploying an HTML website 
 
 ## Architecture
 
-![AWS Architecture Diagram](Architectural Diagram.drawio.png)
+![AWS Architecture Diagram](mole/Architectural Diagram.drawio.png)
 
 - **S3 Bucket:**
   - Log in to the AWS Management Console.
