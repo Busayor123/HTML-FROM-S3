@@ -6,7 +6,7 @@ This repository contains scripts and instructions for deploying an HTML website 
 
 ## Architecture
 
-![AWS Architecture Diagram](Hosting on ec2.png)
+![AWS Architecture Diagram](Html.png)
 
 - **S3 Bucket:**
   - Log in to the AWS Management Console.
