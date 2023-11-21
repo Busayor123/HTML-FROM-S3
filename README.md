@@ -67,9 +67,9 @@ create an architecture diagram Host an HTML website on a single EC2 uploading th
 - Review and adjust security settings based on your specific requirements.
 - For increased security, consider using AWS Identity and Access Management (IAM) roles and fine-grained S3 bucket policies.
 
-Feel free to customize the instructions and diagram according to your specific needs.
-Replace link-to-your-image.png in the README with the actual link to your architecture diagram image.
 
+**Author
+[Oluwabusayo Abati]**
 
 
 
